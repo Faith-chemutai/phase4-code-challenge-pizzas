@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+##set up
+clone this repo
+run rails db:migrate db:seed
+then rails server
