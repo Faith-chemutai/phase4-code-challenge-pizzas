@@ -7,6 +7,7 @@ cheese = Pizza.create(name:  "Cheese", ingredients: "Dough, Tomato Sauce, Cheese
 pepperoni = Pizza.create(name: "Pepperoni", ingredients: "Dough, Tomato Sauce, Cheese, Pepperoni")
 
 # # associate pizzas with restaurants
+#veggie
 # sottocasa.pizzas << cheese
 # sottocasa.pizzas << pepperoni
 # pizzarte.pizzas << cheese
